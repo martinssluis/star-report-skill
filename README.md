@@ -1,4 +1,4 @@
-# delivery-report
+# star-report
  
 A Claude skill that turns informal descriptions of software deliveries into structured, professional reports — ready for meetings, interviews, or technical history.
  
@@ -13,7 +13,7 @@ No more rewriting the same thing three times. Just describe what you did, and th
 ## Install
  
 ```
-npx skills add <your-username>/delivery-report
+npx skills add <your-username>/star-report
 ```
  
 ## Usage
